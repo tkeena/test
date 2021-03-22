@@ -17,14 +17,20 @@ https://netbeans.apache.org/download/index.html
 
 - (Note: You must have Java installed on your system to install and run NetBeans -https://java.com/en/download/help/windows_manual_download.html#download)
 
-- To check the structure of an XML file, naviage to the file using NetBeans
+- To check the structure of an XML file, navigate to the file using NetBeans
     - Right click on the file name 
     - Select 'Check XML' - results are outputted 
 
-- To validate an XML file, naviage to the file using NetBeans
-  - Right click on the file name 
-  - Select 'Validate XML' - results are outputted 
+- To validate an XML file, navigate to the file using NetBeans
+    - Right click on the file name 
+    - Select 'Validate XML' - results are outputted 
  
 
+## Notepad ++ 
+
+- Notepad++ is a text and source code editor for use with Microsoft Windows. To check and validate XML records, you need to install the XML Tools plugin.
+- On installing the XML Tools plugin, to validate an XML file:
+        - Open the XML file
+        - Navigate to Plugins > XML Tools > Validate Now!
 
 
