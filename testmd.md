@@ -31,6 +31,6 @@ https://netbeans.apache.org/download/index.html
 - Notepad++ is a text and source code editor for use with Microsoft Windows. To check and validate XML records, you need to install the XML Tools plugin.
 - On installing the XML Tools plugin, to validate an XML file:
         - Open the XML file
-        - Navigate to Plugins > XML Tools > Validate Now!
+        - Navigate to Plugins > XML Tools > Validate Now
 
 
