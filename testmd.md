@@ -28,6 +28,8 @@ https://netbeans.apache.org/download/index.html
     - Select 'Validate XML' - results are outputted 
  
 
+![alt text](https://github.com/tkeena/test/blob/master/isde_netbeans_validateXML.png?raw=true)
+
 ## Notepad ++ 
 
 - Notepad++ is a text and source code editor for use with Microsoft Windows. To check and validate XML records, you need to install the XML Tools plugin.
