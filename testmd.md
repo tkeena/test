@@ -38,4 +38,4 @@ https://netbeans.apache.org/download/index.html
     -   Open the XML file
     -   Navigate to Plugins > XML Tools > Validate Now
 
-
+![alt text](https://github.com/tkeena/test/blob/master/isde_notepadPlus_validateXML.png?raw=true)
