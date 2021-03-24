@@ -12,6 +12,10 @@ This document outlines recommended tools for checking and validating your XML re
 
 ## NetBeans
 
+- XSD (XML Schema definition) is used for validating XML. IDE's like Netbeans, Eclipse and some Editors provide suggestions in the XML file based on XSD provided.
+
+- NetBeans is one example of a tool to validate and check XML.
+- 
 - For information on downloading and installing Netbeans see:
 https://netbeans.apache.org/download/index.html 
 
